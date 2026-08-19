@@ -10,7 +10,7 @@
   --std-ft-w: 400;
   --bld-ft-w: 700;
 
-  --std-wd: 290px;
+  --std-wd: 300px;
   --std-rd: 12px;
 }
 
@@ -67,6 +67,7 @@ img {
   align-items: center;
   max-width: var(--std-wd);
   text-align: center;
+  padding: 12px;
 }
 
 .card-container h2,
