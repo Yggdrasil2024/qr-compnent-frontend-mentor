@@ -20,7 +20,7 @@ This is a QR code component project built with pure HTML and CSS (no JavaScript)
 
 ### Screenshot
 
-![card component](./screenshot.png)
+<img src="./screenshot.png" alt="projet home page screen shot">
 
 ### Links
 
